@@ -80,3 +80,14 @@ rotZ:0.01413857
 rotW:-0.9990702
 }
 ```
+
+# Included projects
+
+- UniRx
+- websocket-sharp
+- MiiJSON
+
+Please see Third-Party Notices.txt for more information
+
+# LICENCE
+MIT
