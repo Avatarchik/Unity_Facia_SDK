@@ -3,9 +3,11 @@ An asset that allows you to get the value of the expression acquired by the iPho
 
 ![Imgur](https://i.imgur.com/Opprsx1.png)
 
-## Unity Version
+## Environment
 
 Unity2019.1.12f1 or higher
+
+Windows(standalone) and Mac(standalone)
 
 ## A sample of the application created using this SDK
 
