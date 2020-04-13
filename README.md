@@ -1,5 +1,5 @@
 # Unity_Facia_SDK
-Easily bring the value of the expression captured by the TrueDepth camera into the Unity runtime with WebSocket.
+An asset that allows you to get the value of the expression acquired by the iPhone TrueDepth camera as json data on Unity (PC).
 
 ![Imgur](https://i.imgur.com/Opprsx1.png)
 
@@ -89,7 +89,7 @@ rotW:-0.9990702
 
 - [UniRx](https://github.com/neuecc/UniRx)
 - [websocket-sharp](https://github.com/sta/websocket-sharp)
-- [MiiJSON](https://gist.github.com/darktable/1411710)
+- [MiniJSON](https://gist.github.com/darktable/1411710)
 
 Please see Third-Party Notices.txt for more information.
 
