@@ -3,6 +3,10 @@ Easily bring the value of the expression captured by the TrueDepth camera into t
 
 ![Imgur](https://i.imgur.com/Opprsx1.png)
 
+## Unity Version
+
+Unity2019.1.12f1 or higher
+
 ## A sample of the application created using this SDK
 
 YouTubeLink : https://www.youtube.com/watch?v=5qTp_n7XlJk
