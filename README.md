@@ -1,5 +1,5 @@
 # Unity_Facia_SDK
-Easily bring the value of the expression captured by the TrueDepth camera into the Unity runtime.
+Easily bring the value of the expression captured by the TrueDepth camera into the Unity runtime with WebSocket.
 
 ![Imgur](https://i.imgur.com/Opprsx1.png)
 
@@ -91,7 +91,7 @@ rotW:-0.9990702
 - [websocket-sharp](https://github.com/sta/websocket-sharp)
 - [MiiJSON](https://gist.github.com/darktable/1411710)
 
-Please see Third-Party Notices.txt for more information
+Please see Third-Party Notices.txt for more information.
 
 # LICENCE
 MIT
