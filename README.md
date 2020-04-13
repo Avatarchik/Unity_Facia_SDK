@@ -87,9 +87,9 @@ rotW:-0.9990702
 
 # Included projects
 
-- ![UniRx](https://github.com/neuecc/UniRx)
-- ![websocket-sharp](https://github.com/sta/websocket-sharp)
-- ![MiiJSON](https://gist.github.com/darktable/1411710)
+- [UniRx](https://github.com/neuecc/UniRx)
+- [websocket-sharp](https://github.com/sta/websocket-sharp)
+- [MiiJSON](https://gist.github.com/darktable/1411710)
 
 Please see Third-Party Notices.txt for more information
 
