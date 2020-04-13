@@ -5,13 +5,13 @@ Easily bring the value of the expression captured by the TrueDepth camera into t
 
 ## A sample of the application created using this SDK
 
-https://www.youtube.com/watch?v=5qTp_n7XlJk
+YouTubeLink : https://www.youtube.com/watch?v=5qTp_n7XlJk
 
 ![Imgur](https://i.imgur.com/7cHyuDVl.gif)
 
 ## iOS App
 
-https://apps.apple.com/jp/app/facia-integratior/id1482899257
+AppStoreLink : https://apps.apple.com/jp/app/facia-integratior/id1482899257
 
 ![imgur](https://i.imgur.com/ceew1tnm.jpg)
 
